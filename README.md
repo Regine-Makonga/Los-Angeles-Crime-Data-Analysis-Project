@@ -34,6 +34,10 @@ Data Analysis involved exploring the clean LA Crime data, the process was carrie
  - How many crimes are occurred per Age?
  - How many crimes are occurred Over Time (Year and Month)?
  - What is the most common type of crime based on crimedescription ('Crm Cd Desc') in each area ?
- - 
+ - How does the time of occurrence relate to the type of crime? Are certain crimes more likely at certain times of day?
+ - What is the average age of victims for each type of crime?
+ - Are men, women, or others sex more likely to be victims of certain types of crimes?
+ - Which area has the most crimes?
+
    
 
