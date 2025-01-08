@@ -80,7 +80,20 @@ Here are some graphs and dashboard:
 
 ### Limitations
 ---
-I had to remove all columns that contain so many nulls  
+I had to remove all the columns containing so many null values, so that it did not affect the accuracy of the analysis, certain information contained in certain columns was going to be very important to analyze as in case of Weapon used(Weapon Used Cd') and Weapon description ('Weapon Desc), unfortunately they contained a lot of nulls which was going to affect the accuracy in the analyzes.
+
+
+The finding are may not capture the full complexity of crime patterns in Los Angeles because they were based on available data
+
+### Access the files
+---
+ - To run the project, make sure you have installed  SQL to perform analysis, and Python with pandas, seaborn, matplotlib for data analysis and data visualization.
+ - Download the LA Crime dataset which hasn't been included in the repository due to its large size you can Download it from [data.lacity.org](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data).
+ - Using python in jupyter notebook to perform data cleaning and data Preparation then export data for data analysis in sql
+ - Create a database in MySQL Workbench, and follow the queries in [data_analysis.sql]() to create table, [load data]() to it and perform the analysis.
+
+
+
    
 
 
