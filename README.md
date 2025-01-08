@@ -38,6 +38,11 @@ Data Analysis involved exploring the clean LA Crime data, the process was carrie
  - What is the average age of victims for each type of crime?
  - Are men, women, or others sex more likely to be victims of certain types of crimes?
  - Which area has the most crimes?
+### Data Visualization
+The data visualization process was carried out with Python by creating plots and dashboard to visualize the results obtained from the data analysis process.
+
+Here are some graphs and dashboard
+
 
    
 
