@@ -18,6 +18,6 @@ Welcome to the Los Angeles crime analysis project! This project is focuses on an
 ### Project Structure
 
  - LA Crime dataset is the primary dataset for this analysis, the dataset contains the LA data crimes covers the time period of 2020 to 2024 which hasn't been included in the repository due to its large size. download the file directly [here](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
- - [LACrime_Analysis_Visualization](LACrime_Analysis_Visualization.ipynb)
-
+ - [LACrime_Analysis_Visualization.ipynb](LACrime_Analysis_Visualization.ipynb): Python file containing the data prepartion, data analysis and data visualization
+ - [LACrime_Analysis.sql](LACrime_Data_Analysis.sql): SQL file containing the data analysis 
 
