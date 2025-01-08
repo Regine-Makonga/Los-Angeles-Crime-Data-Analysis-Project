@@ -91,7 +91,13 @@ The finding are may not capture the full complexity of crime patterns in Los Ang
  - Download the LA Crime dataset which hasn't been included in the repository due to its large size you can Download it from [data.lacity.org](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data).
  - Using python in jupyter notebook to perform data cleaning and data Preparation then export data for data analysis 
  - Create a database in MySQL Workbench, create table, load clean and prepared export from python and follow the queries in [data_analysis.sql](LACrime_Data_Analysis.sql) then perform the analysis.
- - The visualizations can be generated using python in jupyter notebook [visualizations.ipynb]()
+ - For the data visualizations you can use python in jupyter notebook the [visualizations.ipynb](LACrime_Analysis_Visualization.ipynb)
+
+### References
+---
+[Pandas.pydata.org](https://pandas.pydata.org/docs/user_guide/index.html)
+[Matplotlib.org](https://matplotlib.org/stable/users/index.html)
+[seaborn.pydata.org](https://seaborn.pydata.org/)
 
 
 
