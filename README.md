@@ -1,4 +1,4 @@
-# LA-Crime Analysis Using Python And SQL
+# Los-Angeles-Crime Analysis Using Python And SQL
 
 ## Table of Contents
 - [Project Overview](#project-overview)
