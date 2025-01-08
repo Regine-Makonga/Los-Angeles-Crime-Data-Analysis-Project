@@ -96,7 +96,11 @@ The finding are may not capture the full complexity of crime patterns in Los Ang
 ### References
 ---
 [Pandas.pydata.org](https://pandas.pydata.org/docs/user_guide/index.html)
+
+
 [Matplotlib.org](https://matplotlib.org/stable/users/index.html)
+
+
 [seaborn.pydata.org](https://seaborn.pydata.org/)
 
 
