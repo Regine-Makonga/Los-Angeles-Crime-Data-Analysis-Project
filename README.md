@@ -51,13 +51,13 @@ Here are some graphs and dashboard:
 
 
 #### Plots
+<img width="470" alt="Crime per Month" src="https://github.com/user-attachments/assets/514c13ce-d7b8-4453-9565-0b5590cf0fe3" />
+
+<img width="462" alt="Crime per Year" src="https://github.com/user-attachments/assets/b8eac637-3de9-4111-b43d-1f8ee13a92f4" />
+
 <img width="645" alt="Most Common type of Crime per Area" src="https://github.com/user-attachments/assets/28b6ddef-414b-4f1f-975c-838c8cf45626" />
 
-
-
 <img width="643" alt="Crime frequency by time period" src="https://github.com/user-attachments/assets/86f7e265-c976-43fc-bec3-803ac645d4b5" />
-
-
 
 <img width="557" alt="Victim sex by crime type" src="https://github.com/user-attachments/assets/617adb85-3122-4dae-ae1d-91579ec95816" />
 
@@ -77,6 +77,10 @@ Here are some graphs and dashboard:
  - Police can increase patrols during high-risk months.
  - Run campaigns to educate the population about the most frequent crimes in each period and the people of the age and gender most exposed to certain types of crime and how to prevent them.
  - Burglaries from vehicle stolen peak at evening, police should increase patrols at this time of day.
+
+### Limitations
+---
+I had to remove all columns that contain so many nulls  
    
 
 
