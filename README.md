@@ -27,5 +27,13 @@ The raw data was cleaned and preprocessed using python. This step involved deali
  - Dealing with outliers: After performing the statistical description, we noticed the negative values ​​in the Vict Age column, which is not normal because we cannot have a negative age, so we removed all the negative values ​​in this column
  - Data conversion: we convert TIME OCC from int to time format, update datatypes of Date Rptd and DATE OCC to datetime format
  - Data transformation: We extracted the Year and Month in DATA OCC and then create news columns Year and Month
+### Data Analysis
+Data Analysis involved exploring the clean LA Crime data, the process was carried out with SQL and  Python to answer a variety of key questions such as:
+ - How many crimes are occurred per month?
+ - How many crimes are occurred per year?
+ - How many crimes are occurred per Age?
+ - How many crimes are occurred Over Time (Year and Month)?
+ - What is the most common type of crime based on crimedescription ('Crm Cd Desc') in each area ?
+ - 
    
 
