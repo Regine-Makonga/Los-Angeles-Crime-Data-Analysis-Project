@@ -6,8 +6,7 @@
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Data Analysis](#data-analysis)
 - [Data Visualization](#data-visualization)
-- [Analysis Results](#analysis-results)
-- [Recommendations](#recommendations)
+- [Analysis Results and Recommendations](#analysis-results-and-recommendations)
 - [Limitations](#limitations)
 - [Access the files](#access-the-files)
 - [References](#references)
@@ -45,6 +44,44 @@ Data Analysis involved exploring the clean LA Crime data, the process was carrie
 The data visualization process was carried out with Python by creating plots and dashboard to visualize the results obtained from the data analysis process.
 
 Here are some graphs and dashboard:
+
+#### Dashboard
+<img width="427" alt="LA Crime Dashboard" src="https://github.com/user-attachments/assets/d1f694db-e3eb-4bb9-aa13-7120739fc186" />
+
+
+
+#### Plots
+<img width="645" alt="Most Common type of Crime per Area" src="https://github.com/user-attachments/assets/28b6ddef-414b-4f1f-975c-838c8cf45626" />
+
+
+
+<img width="643" alt="Crime frequency by time period" src="https://github.com/user-attachments/assets/86f7e265-c976-43fc-bec3-803ac645d4b5" />
+
+
+
+<img width="557" alt="Victim sex by crime type" src="https://github.com/user-attachments/assets/617adb85-3122-4dae-ae1d-91579ec95816" />
+
+### Analysis Results and Recommendations
+---
+#### Analysis Results
+ - During the last 4 years we have noticed that there is an increase in crimes at the beginning of the year than at the end of the year.
+ - There was an increase in crimes in 2022 than in 2024 where noticed fewer crimes than in other years
+ - Vehicle Stolen is the most committed crime over the last 4 years.
+ - The people most exposed to crime are people between the ages of 20 and 50.
+ - We were able to noticed which types of crimes are more likely to happen during certain hours of the day, as in case of (Battery simple assault) which happens often in afternoon and (Burglary from vehicle stolen) which happens often in the evening.
+ - We observed that there are certain people of certain sexes who are more exposed to crimes than others, as in the case of (Assault with deadly weapon, aggravated assault) where there are more male victims than other sexes.
+#### Recommendations
+ - Inform patrol schedules, resource allocation, and strategic planning for crime prevention in certain area for specific crime types.
+ - Targeted law enforcement and public safety campaigns in the area most affected by certain types of crime.
+ - Encourage residents to use safety apps with real-time alerts for high-crime areas.
+ - Police can increase patrols during high-risk months.
+ - Run campaigns to educate the population about the most frequent crimes in each period and the people of the age and gender most exposed to certain types of crime and how to prevent them.
+ - Burglaries from vehicle stolen peak at evening, police should increase patrols at this time of day.
+   
+
+
+
+
 
 
 
