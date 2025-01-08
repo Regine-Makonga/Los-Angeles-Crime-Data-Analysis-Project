@@ -1,2 +1,1 @@
-# Los-Angeles-crime-Data-Analysis-Project
-Data Analytic Project
+# LA-Crime Analysis Using Python And SQL
