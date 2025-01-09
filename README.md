@@ -55,7 +55,6 @@ Here are some graphs and dashboard:
 <img width="645" alt="Most Common type of Crime per Area" src="https://github.com/user-attachments/assets/28b6ddef-414b-4f1f-975c-838c8cf45626" />
 
 <img width="643" alt="Crime frequency by time period" src="https://github.com/user-attachments/assets/86f7e265-c976-43fc-bec3-803ac645d4b5" />
-
 <img width="557" alt="Victim sex by crime type" src="https://github.com/user-attachments/assets/617adb85-3122-4dae-ae1d-91579ec95816" />
 
 ## Analysis Results and Recommendations
