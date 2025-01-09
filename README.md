@@ -88,6 +88,12 @@ The finding are may not capture the full complexity of crime patterns in Los Ang
  - For the data visualizations use the [visualizations.ipynb](LACrime_Analysis_Visualization.ipynb) you can use it on python in jupyter notebook 
 
 ## References
+[Databases-and-SQL-for-Data -cience-with-Python](https://www.coursera.org/learn/sql-data-science/home/module/1) IBM certificate
+
+
+[Data-Visualization-with-Python](https://www.coursera.org/learn/python-for-data-visualization) IBM certificate
+
+
 [Pandas.pydata.org](https://pandas.pydata.org/docs/user_guide/index.html)
 
 
